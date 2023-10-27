@@ -1,0 +1,6 @@
+weather_condition,road_type,speed_limit,vehicle_type,accident_severity
+Clear,Highway,65,Car,Minor
+Rain,City Street,30,Truck,Major
+Snow,Rural Road,55,Motorcycle,Minor
+Fog,City Street,30,Car,Major
+Rain,Highway,70,Car,Minor
